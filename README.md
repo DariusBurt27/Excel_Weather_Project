@@ -20,3 +20,16 @@ The final pivot table shows how the average temperature per year has changed ove
 
 ![Screenshot 2025-04-19 085050](https://github.com/user-attachments/assets/ee8b3d56-c91d-403d-8c27-8a0d644e5c5d)
 
+
+I then created pivot charts using the pivot tables which completed most of the dashboard.
+
+![Screenshot 2025-04-19 095852](https://github.com/user-attachments/assets/61a61301-72d9-452b-8d77-5582693c0519)
+
+
+You can see I added a couple of interesting stats in the bottom right corner. Here, the record high temperature and and precipitation as well as record low temperature are displayed. 
+
+
+
+
+
+
