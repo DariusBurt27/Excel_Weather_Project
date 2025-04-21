@@ -3,7 +3,7 @@
  
 ![Screenshot 2025-04-18 204019](https://github.com/user-attachments/assets/248b3d9c-8e58-44d6-ab42-c57f66418118)
 
-The dataset was downloaded from Kaggle and can be found [here](https://www.kaggle.com/datasets/mahdiehhajian/seattle-weather). I made a couple changes to the original dataset. I added the "month" column so that I could easily create the pivot tables that aggregate the data based on month. I also renamed some of the columns to make their meaning more obvious. 
+The dataset was downloaded from Kaggle and can be found [here](https://www.kaggle.com/datasets/mahdiehhajian/seattle-weather). Each row of the dataset contains data on one day, with 25552 days in total ranging from 1948 to 2017. I made a couple changes to the original dataset. I added the "month" column so that I could easily create the pivot tables that aggregate the data based on month. I also renamed some of the columns to make their meaning more obvious. 
 
 
 In order to make the line graphs in the dashboard I needed to aggregate the data through multiple pivot tables. The first one shows how the average temperature in Seattle changes by month:
