@@ -1,4 +1,4 @@
-# Analyzing Seattle Weather with Excel
+# Creating a Dashboard of Seattle Weather with Excel
  For this project I used Excel to make a dashboard for data on Seattle Weather. The dataset looks like this:
  
 ![Screenshot 2025-04-18 204019](https://github.com/user-attachments/assets/248b3d9c-8e58-44d6-ab42-c57f66418118)
